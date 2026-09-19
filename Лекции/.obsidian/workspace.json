@@ -6,26 +6,57 @@
       {
         "id": "d16fa85e431386d3",
         "type": "tabs",
+        "dimension": 63.545347467608956,
         "children": [
           {
-            "id": "9a48fbeea353550f",
+            "id": "745200295c8ca17b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KEVA 1.md",
+                "file": "Информатика/Информатика 18.09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KEVA 1"
+              "title": "Информатика 18.09"
+            }
+          },
+          {
+            "id": "abb3ec574b2c78ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KEVA/Keva 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keva 3"
+            }
+          },
+          {
+            "id": "c4f7af1e34c08525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОРГ 18.09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОРГ 18.09"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "0a232146f9aa9dd0",
         "type": "tabs",
+        "dimension": 36.45465253239105,
         "children": [
           {
             "id": "04bd0b0cf9849eea",
@@ -208,12 +239,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9a48fbeea353550f",
+  "active": "c4f7af1e34c08525",
   "lastOpenFiles": [
     "Sylesheet.md",
-    "KEVA 1.md",
-    "Информатика/Информатика 08.09.md",
+    "ОРГ 18.09.md",
+    "KEVA/Keva 3.md",
+    "Информатика/Информатика 18.09.md",
+    "KEVA/KEVA 1.md",
+    "KEVA/KEVA 2.md",
+    "ОРГ/ОРГ 14.09.md",
+    "KEVA",
+    "ОРГ/ЛК1-2.md",
     "ОРГ/ОРГ 07.09.md",
+    "Информатика/Информатика 11.09.md",
+    "Информатика/Информатика 08.09.md",
     "Информатика/Информатика 07.09.md",
     "Без названия.canvas",
     "2026-09-08.md",
